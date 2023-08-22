@@ -1,1 +1,1 @@
-my second readme
+Eight days into ALX SE program
